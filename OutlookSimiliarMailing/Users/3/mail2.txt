@@ -1,0 +1,3 @@
+Subject: new Mail
+just a test mail
+From: xxx@.
